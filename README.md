@@ -11,8 +11,7 @@ This project is part of the **Advanced Programming in Swift** course, which is a
 | Menu View | Filter Options | MenuItem Details |
 | :---: | :---: | :---: |
 | `MenuItemsView` | `MenuItemsOptionView` | `MenuItemDetailsView` |
-| <img src="screenshots/menu_items_view.png" width="220" alt="Menu View" /> | <img src="screenshots/menu_items_option_view.png" width="220" alt="Filter View" /> | <img src="screenshots/menu_item_details_view.png" width="220" alt="Dish Details View" /> |
-| *[Insert Menu Items Screenshot]* | *[Insert Filter Options Screenshot]* | *[Insert Details Screenshot]* |
+| <img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-21 at 22 52 50" src="https://github.com/user-attachments/assets/da1069ed-0e20-414c-b30b-76c8d3f8f853" /> | <img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-21 at 22 52 53" src="https://github.com/user-attachments/assets/e50d7d42-9b17-4230-a4e2-c09accb237dd" /> | <img width="300" alt="Simulator Screenshot - iPhone 17 Pro - 2026-05-21 at 22 53 09" src="https://github.com/user-attachments/assets/d4242b15-daa5-405c-943a-ced6cb154b03" /> |
 ---
 
 ## 🛠 Features
