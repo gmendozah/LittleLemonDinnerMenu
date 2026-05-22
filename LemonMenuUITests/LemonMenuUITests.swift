@@ -1,13 +1,13 @@
 //
-//  Little_Lemon_dinner_menuUITests.swift
-//  Little Lemon dinner menuUITests
+//  LemonMenuUITests.swift
+//  LemonMenuUITests
 //
 //  Created by Geovani Mendoza on 21/5/26.
 //
 
 import XCTest
 
-final class Little_Lemon_dinner_menuUITests: XCTestCase {
+final class LemonMenuUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

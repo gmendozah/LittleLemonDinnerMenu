@@ -1,13 +1,13 @@
 //
-//  Little_Lemon_dinner_menuUITestsLaunchTests.swift
-//  Little Lemon dinner menuUITests
+//  LemonMenuUITestsLaunchTests.swift
+//  LemonMenuUITests
 //
 //  Created by Geovani Mendoza on 21/5/26.
 //
 
 import XCTest
 
-final class Little_Lemon_dinner_menuUITestsLaunchTests: XCTestCase {
+final class LemonMenuUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
